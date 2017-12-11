@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IoTApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="parse_server_url">http://parse.anubisoft.co/social_books/</string>
+    <string name="parse_app_id">SocialBooks</string>
+    <string name="parse_app_key">SocialBooks</string>
+</resources>
